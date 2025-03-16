@@ -4,7 +4,7 @@ This repo contains python files which contains code to perfom Retreival Augument
 
 In 2nd file app_fast, i have used all-MiniLM-L6-v2 's embeddings for faster response. 
 
-Finally chat_botpy cntains code to directly chat with my resume, ask questions about my resume, it contains a streamlit that enables an interface to chat. 
+Finally chat_botpy contains code to directly chat with my resume, ask questions about my resume, it contains a streamlit that enables an interface to chat. 
 
 API key is replaced with the string "API_KEY" in all the files.
 
