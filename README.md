@@ -6,7 +6,7 @@ In first file (app.py) i have used Deepseek's Embeddings to perform search.
 
 In 2nd file app_fast, i have used all-MiniLM-L6-v2 's embeddings for faster response. 
 
-Finally chat_botpy contains code to directly chat with my resume, ask questions about my resume, it contains a streamlit that enables an interface to chat. 
+Finally chat_bot.py contains code to directly chat with my resume, ask questions about my resume, it contains a streamlit that enables an interface to chat. 
 
 API key is replaced with the string "API_KEY" in all the files.
 
